@@ -1,7 +1,7 @@
 ### Hi there 👋
  - 🔭 I’m currently working on Magento 2 REST API integration with asp.net core  
  - 🌱 I’m currently learning Microservices Architecture With ASP.net Core
- - 📫 How to reach me: kkumarsolution@gmail.com
+ - 📫 How to reach me: pankajkumar255@gmail.com
 
 <!--
 **pkumarprojects/pkumarprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
